@@ -2,4 +2,3 @@ Archivo de Test
 Le agrego un comentario al archivo
 LINEA F2
 LINEA F3
-Agrego fix sobre release
